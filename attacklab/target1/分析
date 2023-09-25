@@ -1,0 +1,4 @@
+cookie写入栈中
+setval_237: popq %rbp，把cookie写入rbp
+setval_426：48 89 c7写rax到rdi
+
